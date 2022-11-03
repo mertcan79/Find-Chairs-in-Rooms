@@ -2,4 +2,5 @@
 
 Given a txt file which represents a mapping of an apartment, find the chairs inside each room.
 
-THE PROGRAM FINDS THE FIRST AND LAST PLUS SIGNS ON THE LEFT AND RIGHT SIGNS OF THE NAME OF THE ROOM AND EXTRACTS THE DATA BETWEEN IT. THEN IT COUNTS THE CHAIRS INSIDE THE EXTRACTED STRINGS
+The program finds the first and last plus signs on the left and right signs of the name of the room and extracts the data between it. Then it counts the chairs inside the extracted strings 
+
