@@ -1,0 +1,5 @@
+# Find-Chairs-in-Rooms
+
+Given a txt file which represents a mapping of an apartment, find the chairs inside each room.
+
+THE PROGRAM FINDS THE FIRST AND LAST PLUS SIGNS ON THE LEFT AND RIGHT SIGNS OF THE NAME OF THE ROOM AND EXTRACTS THE DATA BETWEEN IT. THEN IT COUNTS THE CHAIRS INSIDE THE EXTRACTED STRINGS
